@@ -1,6 +1,6 @@
 package vendormachine;
 
-import vendormachine.vendors.DrinkVendingMachine;
+//import vendormachine.vendors.DrinkVendingMachine;
 
 public class DrinkVendingMachineTEST {
 	
@@ -14,5 +14,5 @@ public class DrinkVendingMachineTEST {
 	 * 		80% code/line coverage
 	 * 		TDD: analyse code and add missing methods.
 	 * */
-
+	
 }
