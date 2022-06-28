@@ -25,5 +25,13 @@ public class Snack implements Item{
     public void setValue(float cost){
         this.price = cost;
     }
-
+    
+    public String getName() {
+    	return this.name;
+    }
+    
+    @Override
+    public String toString() {
+    	return this.getName();
+    }
 }
